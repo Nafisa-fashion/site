@@ -173,7 +173,7 @@ button i.fa {
 }
 /* universal box */
 .box {
-  background: #fff;
+  background: #333;
   margin: 0 0 30px;
   border: solid 1px #ccc;
   -webkit-box-sizing: border-box;
@@ -1862,7 +1862,7 @@ a.list-group-item.active > .badge,
 /*!
  * Yamm!3
  * Yet another megamenu for Bootstrap 3
- * 
+ *
  * http://geedmo.github.com/yamm3
  */
 .yamm .nav,
