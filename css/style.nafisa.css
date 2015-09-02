@@ -173,7 +173,7 @@ button i.fa {
 }
 /* universal box */
 .box {
-  background: #333;
+  background: #fff;
   margin: 0 0 30px;
   border: solid 1px #ccc;
   -webkit-box-sizing: border-box;
