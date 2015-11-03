@@ -7,5 +7,7 @@ RewriteBase /
 RewriteCond %{HTTP_HOST} !^domain.com$ [NC]
 RewriteRule ^(.*)$ http://domain.com/$1 [L,R=301]
 
-CheckSpelling on
-CheckCaseOnly on
+RewriteEngine on
+RewriteBase /
+RewriteMap insensitive tolower:
+RewriteRule ^[\/]*(.*)$ /${insensitive:$1} [R,L]
