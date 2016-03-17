@@ -1,0 +1,837 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="robots" content="all,follow">
+    <meta name="googlebot" content="index,follow,snippet,archive">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="The latest looks in modest fashion for muslim women.">
+
+
+
+    <title>Amaliah - SHOP - Curated fashion content for you</title>
+
+    <meta name="keywords" content="fashion site for muslim women modest fashion">
+    <meta name='webgains-site-verification' content='ptbccdgc' />
+
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700|Merriweather:400,400italic' rel='stylesheet' type='text/css'>
+
+    <!-- Bootstrap and Font Awesome css -->
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Theme stylesheet -->
+    <link href="css/style.nafisa.css" rel="stylesheet" id="theme-stylesheet">
+<!-- my style sheet -->
+  <link href="css/nafisa.css" rel="stylesheet" id="theme-stylesheet">
+
+    <!-- Custom stylesheet - for your changes -->
+    <link href="css/custom.css" rel="stylesheet">
+
+    <!-- Responsivity for older IE -->
+    <script src="js/respond.min.js"></script>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="img/logo-small.png">
+    <!-- owl carousel css -->
+
+    <link href="css/owl.carousel.css" rel="stylesheet">
+    <link href="css/owl.theme.css" rel="stylesheet">
+      <link href='https://fonts.googleapis.com/css?family=Lato:400,100' rel='stylesheet' type='text/css'>
+
+  <script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0039/9127.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<script src="//load.sumome.com/" data-sumo-site-id="44c0db8028b1cdf0a717cf2889a0235f3a629e9e738202c2377a92d748ff73f1" async="async"></script>
+<!-- Hotjar Tracking Code for http://www.amaliah.co.uk -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:125711,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<meta name="google-site-verification" content="BeMwG4_y0E0GrCPLobvpiAkuZ85HRv_1rJBWCnNa48M" />
+
+
+</head>
+
+<body>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68821094-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5NDKJW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5NDKJW');</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+  <style>
+.nice
+    {
+    font-family: Lato;
+    text-align: center;
+    font-size: 20px;
+    }
+
+    @media (min-width: 768px) and (max-width: 1024px) {
+    {
+    .mc-modal {
+        top: 300px !important;
+    }
+}
+</style>
+
+    <!-- *** NAVBAR ***
+_________________________________________________________ -->
+
+    <div class="navbar navbar-default navbar-fixed-top yamm" role="navigation" id="navbar">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand home" href="index.html">
+                    <img src="img/logo.png" alt="Minimal logo" class="hidden-xs hidden-sm" style = "padding-top:9px">
+                    <img src="img/logo-small.png" alt="Minimal logo" class="visible-xs visible-sm"><span class="sr-only">amaliah</span>
+                </a>
+
+            <div class="navbar-buttons">
+                    <button type="button" class="navbar-toggle btn-primary" data-toggle="collapse" data-target="#navigation">
+                        <span class="sr-only">Toggle navigation</span>
+                        <i class="fa fa-align-justify"></i>
+                    </button>
+            </div>
+            </div>
+
+            <!--/.navbar-header -->
+
+            <div class="navbar-collapse collapse" id="navigation">
+                <ul class="nav navbar-nav navbar-left">
+                 <li><a href="/index">SHOP<b ></b></a></li>
+                  <li><a href="/Writes" >Blog<b ></b></a></li>
+                  <li> <a href="/text.html" data-delay="200">About</a></li>
+
+                  <li> <a href="/subscribe.html"  data-delay="200">Subscribe</a></li>
+                    <li><a href="/contact.html">Contact</a></li>
+                </ul>
+            </div>
+            <!--/.nav-collapse -->
+
+
+            <!--/.nav-collapse -->
+
+
+
+            <div class="navbar-collapse collapse right">
+
+
+               <br>
+               <p class="social">
+
+                   <a href="https://instagram.com/amaliah_co.uk" target="_blank"><i class="fa fa-instagram fa-3x"></i></a>
+                 <a href="https://uk.pinterest.com/AmaliahSHOP/" target="_blank"><i class="fa fa-pinterest fa-3x"></i></a>
+
+
+                 <a href="https://www.facebook.com/Amaliah-854125178017137/timeline/?ref=hl" target="_blank"><i class="fa fa-facebook-square fa-3x"></i></a>
+
+                        <a href="https://twitter.com/Amaliah_Tweets?lang=en" target="_blank"><i class="fa fa-twitter-square fa-3x"></i></a>
+                    </p>            </div>
+
+            <div class="collapse clearfix" id="search">
+
+                <form class="navbar-form" role="search">
+                    <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Search">
+                        <span class="input-group-btn">
+
+            <button type="submit" class="btn btn-primary"><i class="fa fa-search"></i></button>
+
+            </span>
+                    </div>
+                </form>
+
+            </div>
+            <!--/.nav-collapse -->
+
+        </div>
+
+
+    </div>
+    <!-- /#navbar -->
+
+    <!-- *** NAVBAR END *** -->
+
+
+<br>
+
+
+    <div id="all">
+
+        <!-- *** ADVANTAGES ***
+_________________________________________________________ -->
+
+        <!-- /#advantages -->
+
+        <!-- *** ADVANTAGES END *** -->
+
+        <!-- *** CONTENT ***
+        _________________________________________________________
+        _________________________________________________________
+        -->
+
+        <div id="content">
+            <div class="container">
+
+                <div class="col-sm-12">
+
+                               
+
+<!-- bomberjacket EDIT  -->
+                    <div class="row products">
+
+    <div class="text">
+
+
+                                </div>
+
+
+
+
+
+
+
+
+                       <br>
+                       <style>
+                       .strike{
+                        text-decoration: line-through;
+                       }
+                       </style>
+                      
+  
+  <div class="col-md-12 col-xs-12">
+                                    <div class="image">
+                                       
+                                           
+                                      <br>
+                                       <p style="font-size:26px" class="nice">THE BOMBER JACKET EDIT</p>
+                                      <p style="font-size:26px" class="editdesc">Swap your winter coat for a bomber!</p>
+                                      <a href ="https://www.instagram.com/perksofbeingsaara/" target="_blank"><p style="font-size:26px" class="nice">@PERKSOFBEINGSAARA</p></a>
+                                     
+                                <br>
+                                <br>
+                                    </div>
+
+                                </div>
+
+                        <div class="col-md-6 col-xs-12">
+                            <div class="product">
+
+                                <div class="image">
+
+                                        <img src="https://s-media-cache-ak0.pinimg.com/originals/bb/19/df/bb19dfb697c0cb00bf08664cb07fe04f.png" alt="Modest fashion" class="img-responsive image1">
+                                        
+
+                                </div>
+                                 <p style="font-size:26px" class="editdesc">Show us your style #AmaliahLikes</p>
+                                     
+                                <!-- /.image -->
+                                <!-- /.text -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+
+<br>
+<br>
+<br>
+<br>
+                                <div class="col-md-5 col-xs-12">
+                                    <div class="image">
+                                       <a href="http://www.awin1.com/cread.php?awinmid=2872&awinaffid=254871&clickref=Bomberpaddedkhaki&p=https%3A%2F%2Fwww.missguided.co.uk%2Flongline-padded-bomber-jacket-khaki" onmouseover="self.status='https://www.missguided.co.uk/longline-padded-bomber-jacket-khaki'; return true;" onmouseout="self.status=''; return true;" target="_new">
+                                            <img src="https://s-media-cache-ak0.pinimg.com/originals/b0/5d/3d/b05d3d37539f80690376840ac3462679.png" alt="Pearl Daisy" class="img-responsive image1">
+                                      </a>
+                                      <br>
+                                        <center><p class="read-more">
+                                        <a href="http://www.awin1.com/cread.php?awinmid=2872&awinaffid=254871&clickref=Bomberpaddedkhaki&p=https%3A%2F%2Fwww.missguided.co.uk%2Flongline-padded-bomber-jacket-khaki" onmouseover="self.status='https://www.missguided.co.uk/longline-padded-bomber-jacket-khaki'; return true;" onmouseout="self.status=''; return true;" target="_new" class="btn btn-primary mybutton">SHOP</a></p></center>
+                                      <p class="nice"> £40</p>
+                                     
+
+                                        <p class="nice">MISSGUIDED</p>
+                                    </div>
+                                </div>
+                               
+
+                                </div>
+          
+   
+
+
+
+
+
+
+<!-- 3 ITEMS  -->
+<div class="box text-center">
+                        <h3 class="text-uppercase">THE SPRING PALETTE </h3>
+
+                    </div>
+  <div class="row products">
+
+                        <div class="col-md-4 col-sm-6 ">
+                            <div class="product">
+                                <div class="image">
+                                   <a href="http://www.awin1.com/cread.php?awinmid=5577&awinaffid=254871&clickref=Bomberspring1&p=https%3A%2F%2Fwww.prettylittlething.com%2Fcatalog%2Fproduct%2Fview%2Fid%2F97209" onmouseover="self.status='https://www.prettylittlething.com/catalog/product/view/id/97209'; return true;" onmouseout="self.status=''; return true;" target="_new">
+                                        <img src="https://s-media-cache-ak0.pinimg.com/originals/c6/63/a6/c663a6eaca5656f57cb3a4fb698c904d.png" alt="" class="img-responsive image1">
+                                    </a>
+
+                                </div>
+                                <!-- /.image -->
+                                <div class="text">
+                                    <h3>PRETTY LITTLE THING</h3>
+                                    <p class="price">£40</p>
+                                     <center><p class="read-more">
+                                        <a href="http://www.awin1.com/cread.php?awinmid=5577&awinaffid=254871&clickref=Bomberspring1&p=https%3A%2F%2Fwww.prettylittlething.com%2Fcatalog%2Fproduct%2Fview%2Fid%2F97209" onmouseover="self.status='https://www.prettylittlething.com/catalog/product/view/id/97209'; return true;" onmouseout="self.status=''; return true;" target="_new" class="btn btn-primary mybutton">SHOP</a></p></center>
+                                </div>
+                                <!-- /.text -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="product">
+                                <div class="image">
+                                    <a href="http://www.boohoo.com/naomi-longline-pocket-detail-shirt/invt/dzz90295" target="_blank">
+                                        <img src="https://s-media-cache-ak0.pinimg.com/originals/d1/2f/10/d12f105f966679e67388c7b64947bd17.png" alt="" class="img-responsive image1">
+                                    </a>
+
+                                </div>
+                                <!-- /.image -->
+                                <div class="text">
+                                    <h3><a href="http://www.boohoo.com/naomi-longline-pocket-detail-shirt/invt/dzz90295" target="_blank">PRETTY LITTLE THING</a></h3>
+                                    <p class="price">£30
+                          </p>
+                           <center><p class="read-more"><a href="http://www.awin1.com/cread.php?awinmid=5577&awinaffid=254871&clickref=Bomberspring2&p=https%3A%2F%2Fwww.prettylittlething.com%2Fpoppie-blush-suede-bomber-jacket.html" onmouseover="self.status='https://www.prettylittlething.com/poppie-blush-suede-bomber-jacket.html'; return true;" onmouseout="self.status=''; return true;" target="_new" class="btn btn-primary mybutton">SHOP</a></p></center>
+                                </div>
+                                <!-- /.text -->
+
+
+                                <!-- /.ribbon -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+
+                        <div class="col-md-4 col-sm-6 ">
+                            <div class="product">
+                                <div class="image">
+                                    <a href="http://www.awin1.com/cread.php?awinmid=5577&awinaffid=254871&clickref=Bomberspring1&p=https%3A%2F%2Fwww.prettylittlething.com%2Fcatalog%2Fproduct%2Fview%2Fid%2F97209" onmouseover="self.status='https://www.prettylittlething.com/catalog/product/view/id/97209'; return true;" onmouseout="self.status=''; return true;" target="_new">
+                                        <img src="https://s-media-cache-ak0.pinimg.com/originals/f8/e4/c9/f8e4c9b0ebc2c26f5dee557d72b064ac.png" alt="" class="img-responsive image1">
+                                    </a>
+
+                                </div>
+                                <!-- /.image -->
+                                <div class="text">
+                                    <h3><a href="http://www.boohoo.com/tops/kayla-paisley-pussy-bow-maxi-shirt/invt/dzz90292" target="_blank">PRETTY LITTLE THING</a></h3>
+                                    <p class="price">£40</p>
+                                     <center><p class="read-more"><a href="http://www.awin1.com/cread.php?awinmid=5577&awinaffid=254871&clickref=Bomberspring1&p=https%3A%2F%2Fwww.prettylittlething.com%2Fcatalog%2Fproduct%2Fview%2Fid%2F97209" onmouseover="self.status='https://www.prettylittlething.com/catalog/product/view/id/97209'; return true;" onmouseout="self.status=''; return true;" target="_new" class="btn btn-primary mybutton">SHOP</a></p></center>
+                                </div>
+                                <!-- /.text -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+
+                        <div class="col-md-4 col-sm-6 ">
+                            <div class="product">
+                                <div class="image">
+                                    <a href="http://www.awin1.com/cread.php?awinmid=6164&awinaffid=254871&clickref=Bomberspring3&p=http%3A%2F%2Fwww.stradivarius.com%2Fgb%2Fclothing%2Fbombers%2Freversible-bomber-jacket-with-embroidery-detail-c1620001p7050506.html" onmouseover="self.status='http://www.stradivarius.com/gb/clothing/bombers/reversible-bomber-jacket-with-embroidery-detail-c1620001p7050506.html'; return true;" onmouseout="self.status=''; return true;" target="_new">
+                                        <img src="https://s-media-cache-ak0.pinimg.com/originals/75/f6/77/75f677a550db14c1ebb357518b31d767.png" alt="" class="img-responsive image1">
+                                    </a>
+
+                                </div>
+                                <!-- /.image -->
+                                <div class="text">
+                                    <h3>STRADIVARIUS</h3>
+                                    <p class="price">£55.99</p>
+                                     <center><p class="read-more"><a href="http://www.awin1.com/cread.php?awinmid=6164&awinaffid=254871&clickref=Bomberspring3&p=http%3A%2F%2Fwww.stradivarius.com%2Fgb%2Fclothing%2Fbombers%2Freversible-bomber-jacket-with-embroidery-detail-c1620001p7050506.html" onmouseover="self.status='http://www.stradivarius.com/gb/clothing/bombers/reversible-bomber-jacket-with-embroidery-detail-c1620001p7050506.html'; return true;" onmouseout="self.status=''; return true;" target="_new" class="btn btn-primary mybutton">SHOP</a></p></center>
+                                </div>
+                                <!-- /.text -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="product">
+                                <div class="image">
+                                    <a href="http://www.awin1.com/cread.php?awinmid=5577&awinaffid=254871&clickref=Bomberspring5&p=https%3A%2F%2Fwww.prettylittlething.com%2Falexus-wine-bomber-jacket.html" onmouseover="self.status='https://www.prettylittlething.com/alexus-wine-bomber-jacket.html'; return true;" onmouseout="self.status=''; return true;" target="_new">
+                                        <img src="https://s-media-cache-ak0.pinimg.com/originals/a6/e0/b8/a6e0b87f18ec4106cb8a0a9a51f422d2.png" alt="" class="img-responsive image1">
+                                    </a>
+
+                                </div>
+                                <!-- /.image -->
+                                <div class="text">
+                                    <h3>PRETTY LITTLE THING</h3>
+                                    <p class="price">£25
+                          </p>
+                           <center><p class="read-more"><a href="http://www.awin1.com/cread.php?awinmid=5577&awinaffid=254871&clickref=Bomberspring5&p=https%3A%2F%2Fwww.prettylittlething.com%2Falexus-wine-bomber-jacket.html" onmouseover="self.status='https://www.prettylittlething.com/alexus-wine-bomber-jacket.html'; return true;" onmouseout="self.status=''; return true;" target="_new" class="btn btn-primary mybutton">SHOP</a></p></center>
+                                </div>
+                                <!-- /.text -->
+
+
+                                <!-- /.ribbon -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+
+                        <div class="col-md-4 col-sm-4 ">
+                            <div class="product">
+                                <div class="image">
+                                    <a href="http://www.awin1.com/cread.php?awinmid=5678&awinaffid=254871&clickref=Bomberspring6&p=http%3A%2F%2Fwww.asos.com%2Fmissguided%2Fmissguided-longline-padded-bomber%2Fprod%2Fpgeproduct.aspx%3Fiid%3D6206713" onmouseover="self.status='http://www.asos.com/missguided/missguided-longline-padded-bomber/prod/pgeproduct.aspx?iid=6206713'; return true;" onmouseout="self.status=''; return true;" target="_new">
+                                        <img src="https://s-media-cache-ak0.pinimg.com/originals/6b/22/13/6b22136b0afe2f84cada7840e3e0fdcc.png" alt="" class="img-responsive image1">
+                                    </a>
+
+                                </div>
+                                <!-- /.image -->
+                                <div class="text">
+                                    <h3><a href="http://www.boohoo.com/tops/kayla-paisley-pussy-bow-maxi-shirt/invt/dzz90292" target="_blank">ASOS</a></h3>
+                                    <p class="price">£40</p>
+                                      <center><p class="read-more"><a href="http://www.awin1.com/cread.php?awinmid=5678&awinaffid=254871&clickref=Bomberspring6&p=http%3A%2F%2Fwww.asos.com%2Fmissguided%2Fmissguided-longline-padded-bomber%2Fprod%2Fpgeproduct.aspx%3Fiid%3D6206713" onmouseover="self.status='http://www.asos.com/missguided/missguided-longline-padded-bomber/prod/pgeproduct.aspx?iid=6206713'; return true;" onmouseout="self.status=''; return true;" target="_new" class="btn btn-primary mybutton">SHOP</a></p></center>
+
+                                </div>
+
+                                <!-- /.text -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+
+                         <!-- /.image -->
+
+
+</div>
+
+
+
+<!-- Spring palette  -->
+<div class="box text-center">
+                        <h3 class="text-uppercase">THE BLACK ONES </h3>
+
+                    </div>
+  <div class="row products">
+
+                        <div class="col-md-4 col-sm-6 ">
+                            <div class="product">
+                                <div class="image">
+                                    <a href="http://www.boohoo.com/shirts+blouses/mandy-stripe-pussy-bow-longline-shirt/invt/dzz90293" target="_blank">
+                                        <img src="https://s-media-cache-ak0.pinimg.com/originals/f0/65/2e/f0652e9c05a98888bc768f072d425927.png" alt="" class="img-responsive image1">
+                                    </a>
+
+                                </div>
+                                <!-- /.image -->
+                                <div class="text">
+                                    <h3>ASOS</h3>
+                                    <p class="price">£40</p>
+                                    <center><p class="read-more"><a href="http://www.awin1.com/cread.php?awinmid=5678&awinaffid=254871&clickref=Bomberblack1&p=http%3A%2F%2Fwww.asos.com%2Fmissguided-plus%2Fmissguided-plus-longline-bomber-jacket%2Fprod%2Fpgeproduct.aspx%3Fiid%3D6266805" onmouseover="self.status='http://www.asos.com/missguided-plus/missguided-plus-longline-bomber-jacket/prod/pgeproduct.aspx?iid=6266805'; return true;" onmouseout="self.status=''; return true;" target="_new" class="btn btn-primary mybutton">SHOP</a></p></center>
+                                </div>
+                                <!-- /.text -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="product">
+                                <div class="image">
+                                    <a href="http://www.awin1.com/cread.php?awinmid=5678&awinaffid=254871&clickref=Bomberblack1&p=http%3A%2F%2Fwww.asos.com%2Fmissguided-plus%2Fmissguided-plus-longline-bomber-jacket%2Fprod%2Fpgeproduct.aspx%3Fiid%3D6266805" onmouseover="self.status='http://www.asos.com/missguided-plus/missguided-plus-longline-bomber-jacket/prod/pgeproduct.aspx?iid=6266805'; return true;" onmouseout="self.status=''; return true;" target="_new">
+                                        <img src="https://s-media-cache-ak0.pinimg.com/originals/e6/ec/f0/e6ecf055e3c69983444214d4d79be8d9.png" alt="" class="img-responsive image1">
+                                    </a>
+
+                                </div>
+                                <!-- /.image -->
+                                <div class="text">
+                                    <h3>URBAN OUTFITTERS</h3>
+                                    <p class="price">£69</P>
+                                         <center><p class="read-more"><a href="http://www.awin1.com/cread.php?awinmid=2077&awinaffid=254871&clickref=Bomberblack2&p=http%3A%2F%2Fwww.urbanoutfitters.com%2Fuk%2Fcatalog%2Fproductdetail.jsp%3Fid%3D5133295575180" onmouseover="self.status='http://www.urbanoutfitters.com/uk/catalog/productdetail.jsp?id=5133295575180'; return true;" onmouseout="self.status=''; return true;" target="_new" class="btn btn-primary mybutton">SHOP</a></p></center>
+                                    
+
+
+                                        
+
+                          
+                                </div>
+                                <!-- /.text -->
+
+
+                                <!-- /.ribbon -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+
+                        <div class="col-md-4 col-sm-6 ">
+                            <div class="product">
+                                <div class="image">
+                                    <a href="http://www.awin1.com/cread.php?awinmid=2077&awinaffid=254871&clickref=Bomberblack2&p=http%3A%2F%2Fwww.urbanoutfitters.com%2Fuk%2Fcatalog%2Fproductdetail.jsp%3Fid%3D5133295575180" onmouseover="self.status='http://www.urbanoutfitters.com/uk/catalog/productdetail.jsp?id=5133295575180'; return true;" onmouseout="self.status=''; return true;" target="_new">
+                                        <img src="https://s-media-cache-ak0.pinimg.com/originals/ce/5f/77/ce5f77ebae3f31798148a9c72771eb6d.png" alt="" class="img-responsive image1">
+                                    </a>
+
+                                </div>
+                                <!-- /.image -->
+                                <div class="text">
+                                    <h3>BOOHOO</h3>
+                                    <p class="price">£20</p>
+                                    <center><p class="read-more"><a href="http://www.awin1.com/cread.php?awinmid=2319&awinaffid=254871&clickref=Bomberblack3&p=http%3A%2F%2Fwww.boohoo.com%2Fbomber-jackets%2Fkhloe-ma1-bomber-jacket%2Finvt%2Fdzz90232" onmouseover="self.status='http://www.boohoo.com/bomber-jackets/khloe-ma1-bomber-jacket/invt/dzz90232'; return true;" onmouseout="self.status=''; return true;" target="_new" class="btn btn-primary mybutton">SHOP</a></p></center>
+                                     
+                                </div>
+                                <!-- /.text -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+
+                        <div class="col-md-4 col-sm-6 ">
+                            <div class="product">
+                                <div class="image">
+                                    <a href="http://www.awin1.com/cread.php?awinmid=2319&awinaffid=254871&clickref=Bomberblack3&p=http%3A%2F%2Fwww.boohoo.com%2Fbomber-jackets%2Fkhloe-ma1-bomber-jacket%2Finvt%2Fdzz90232" onmouseover="self.status='http://www.boohoo.com/bomber-jackets/khloe-ma1-bomber-jacket/invt/dzz90232'; return true;" onmouseout="self.status=''; return true;" target="_new">
+                                        <img src="https://s-media-cache-ak0.pinimg.com/originals/2a/6f/bf/2a6fbf00d566f1bb87b909835a0616a7.png" alt="" class="img-responsive image1">
+                                    </a>
+
+                                </div>
+                                <!-- /.image -->
+                                <div class="text">
+                                    <h3>BOOHOO </h3>
+                                    <p class="price">£18</p>
+                                    <center><p class="read-more"><a href="http://www.awin1.com/cread.php?awinmid=2319&awinaffid=254871&clickref=Bomberblack4&p=http%3A%2F%2Fwww.boohoo.com%2Fbomber-jackets%2Fmilly-longline-ma1-bomber%2Finvt%2Fdzz89693" onmouseover="self.status='http://www.boohoo.com/bomber-jackets/milly-longline-ma1-bomber/invt/dzz89693'; return true;" onmouseout="self.status=''; return true;" target="_new" class="btn btn-primary mybutton">SHOP</a></p></center>
+                                    
+
+                                    
+                                </div>
+                                <!-- /.text -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="product">
+                                <div class="image">
+                                    <a href="http://www.awin1.com/cread.php?awinmid=2319&awinaffid=254871&clickref=Bomberblack4&p=http%3A%2F%2Fwww.boohoo.com%2Fbomber-jackets%2Fmilly-longline-ma1-bomber%2Finvt%2Fdzz89693" onmouseover="self.status='http://www.boohoo.com/bomber-jackets/milly-longline-ma1-bomber/invt/dzz89693'; return true;" onmouseout="self.status=''; return true;" target="_new">
+                                        <img src="https://s-media-cache-ak0.pinimg.com/originals/d9/fe/61/d9fe61a82a43d00fdd155018d0418a40.png" alt="" class="img-responsive image1">
+                                    </a>
+
+                                </div>
+                                <!-- /.image -->
+                                <div class="text">
+                                    <h3>ASOS</h3>
+                                    <p class="price">£25
+                          </p>
+                          <center><p class="read-more"><a href="http://www.awin1.com/cread.php?awinmid=5678&awinaffid=254871&clickref=Bomberblack5&p=http%3A%2F%2Fwww.asos.com%2Fasos%2Fasos-longline-bomber-in-jersey%2Fprod%2Fpgeproduct.aspx%3Fiid%3D5871067" onmouseover="self.status='http://www.asos.com/asos/asos-longline-bomber-in-jersey/prod/pgeproduct.aspx?iid=5871067'; return true;" onmouseout="self.status=''; return true;" target="_new" class="btn btn-primary mybutton">SHOP</a></p></center>
+                                    
+
+                                    
+                                </div>
+                                <!-- /.text -->
+
+
+                                <!-- /.ribbon -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="product">
+                                <div class="image">
+                                    <a href="http://www.awin1.com/cread.php?awinmid=5678&awinaffid=254871&clickref=Bomberscarf&p=http%3A%2F%2Fwww.asos.com%2FBlank%2FBL%255ENK-Contrast-Tassel-Detail-Oversized-Scarf%2FProd%2Fpgeproduct.aspx%3Fiid%3D6329678" onmouseover="self.status='http://www.asos.com/Blank/BL%5ENK-Contrast-Tassel-Detail-Oversized-Scarf/Prod/pgeproduct.aspx?iid=6329678'; return true;" onmouseout="self.status=''; return true;" target="_new">
+                                        <img src="https://s-media-cache-ak0.pinimg.com/originals/05/39/1b/05391b7f5a6b02880c7bcc2e4ca4ec48.png" alt="" class="img-responsive image1">
+                                    </a>
+
+                                </div>
+                                <!-- /.image -->
+                                <div class="text">
+                                    <h3>ASOS</h3>
+                                    <p class="price">£45</p>
+                                    <center><p class="read-more"><a href="http://www.awin1.com/cread.php?awinmid=5678&awinaffid=254871&clickref=Bomberscarf&p=http%3A%2F%2Fwww.asos.com%2FBlank%2FBL%255ENK-Contrast-Tassel-Detail-Oversized-Scarf%2FProd%2Fpgeproduct.aspx%3Fiid%3D6329678" onmouseover="self.status='http://www.asos.com/Blank/BL%5ENK-Contrast-Tassel-Detail-Oversized-Scarf/Prod/pgeproduct.aspx?iid=6329678'; return true;" onmouseout="self.status=''; return true;" target="_new" class="btn btn-primary mybutton">SHOP Exclusive</a></p></center>
+                                    
+
+
+                                    
+                                </div>
+                                <!-- /.text -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+
+                         <!-- /.image -->
+
+
+</div>
+
+<!-- 3 ITEMS  -->
+<div class="box text-center">
+                        <h3 class="text-uppercase">THE KHAKI ONES </h3>
+
+                    </div>
+  <div class="row products">
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="product">
+                                <div class="image">
+                                   <a href="http://www.awin1.com/cread.php?awinmid=2077&awinaffid=254871&clickref=Bomberkhaki1&p=http%3A%2F%2Fwww.urbanoutfitters.com%2Fuk%2Fcatalog%2Fproductdetail.jsp%3Fid%3D5139449470251" onmouseover="self.status='http://www.urbanoutfitters.com/uk/catalog/productdetail.jsp?id=5139449470251'; return true;" onmouseout="self.status=''; return true;" target="_new">
+                                        <img src="https://s-media-cache-ak0.pinimg.com/originals/de/c5/e6/dec5e6483a409b9a6b427393a614f0dd.png" alt="" class="img-responsive image1">
+                                    </a>
+
+                                </div>
+                                <!-- /.image -->
+                                <div class="text">
+                                    <h3>URBAN OUTFITTERS</h3>
+                                    <p class="price">£290</p>
+
+                                    <center><p class="read-more"> <a href="http://www.awin1.com/cread.php?awinmid=2077&awinaffid=254871&clickref=Bomberkhaki1&p=http%3A%2F%2Fwww.urbanoutfitters.com%2Fuk%2Fcatalog%2Fproductdetail.jsp%3Fid%3D5139449470251" onmouseover="self.status='http://www.urbanoutfitters.com/uk/catalog/productdetail.jsp?id=5139449470251'; return true;" onmouseout="self.status=''; return true;" target="_new" class="btn btn-primary mybutton">SHOP</a></p></center>
+
+                                </div>
+                                <!-- /.text -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="product">
+                                <div class="image">
+                                    <a href="http://www.awin1.com/cread.php?awinmid=5577&awinaffid=254871&clickref=Bomberkhaki2&p=https%3A%2F%2Fwww.prettylittlething.com%2Fcatalog%2Fproduct%2Fview%2Fid%2F97209" onmouseover="self.status='https://www.prettylittlething.com/catalog/product/view/id/97209'; return true;" onmouseout="self.status=''; return true;" target="_new">
+                                        <img src="https://s-media-cache-ak0.pinimg.com/originals/28/8b/2a/288b2a2ae9a0b9c339eb9bf877b5380b.png" alt="" class="img-responsive image1">
+                                    </a>
+
+                                </div>
+                                <!-- /.image -->
+                                <div class="text">
+                                    <h3>PRETTY LITTLE THING</h3>
+                                    <p class="price">£40
+
+                          </p>
+
+                          <center><p class="read-more">  <a href="http://www.awin1.com/cread.php?awinmid=5577&awinaffid=254871&clickref=Bomberkhaki2&p=https%3A%2F%2Fwww.prettylittlething.com%2Fcatalog%2Fproduct%2Fview%2Fid%2F97209" onmouseover="self.status='https://www.prettylittlething.com/catalog/product/view/id/97209'; return true;" onmouseout="self.status=''; return true;" target="_new" class="btn btn-primary mybutton">SHOP</a></p></center>
+
+                         
+                                </div>
+                                <!-- /.text -->
+
+
+                                <!-- /.ribbon -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="product">
+                                <div class="image">
+                                     <a href="http://www.awin1.com/cread.php?awinmid=2872&awinaffid=254871&clickref=Bomberpaddedkhaki&p=https%3A%2F%2Fwww.missguided.co.uk%2Flongline-padded-bomber-jacket-khaki" onmouseover="self.status='https://www.missguided.co.uk/longline-padded-bomber-jacket-khaki'; return true;" onmouseout="self.status=''; return true;" target="_new">
+                                        <img src="https://s-media-cache-ak0.pinimg.com/originals/b0/5d/3d/b05d3d37539f80690376840ac3462679.png" alt="" class="img-responsive image1">
+                                    </a>
+
+                                </div>
+                                <!-- /.image -->
+                                <div class="text">
+                                    <h3><a href="http://www.boohoo.com/tops/kayla-paisley-pussy-bow-maxi-shirt/invt/dzz90292" target="_blank">MISSGUIDED</a></h3>
+                                    <p class="price">£40</p>
+                                    <center><p class="read-more">  <a href="http://www.awin1.com/cread.php?awinmid=2872&awinaffid=254871&clickref=Bomberpaddedkhaki&p=https%3A%2F%2Fwww.missguided.co.uk%2Flongline-padded-bomber-jacket-khaki" onmouseover="self.status='https://www.missguided.co.uk/longline-padded-bomber-jacket-khaki'; return true;" onmouseout="self.status=''; return true;" target="_new" class="btn btn-primary mybutton">SHOP</a></p></center>
+
+
+
+                                     
+                                </div>
+                                <!-- /.text -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="product">
+                                <div class="image">
+                                    <a href="http://www.awin1.com/cread.php?awinmid=5678&awinaffid=254871&clickref=Bomberkhaki4&p=http%3A%2F%2Fwww.asos.com%2FOnly%2FOnly-Longline-Zip-Front-Bomber-Jacket%2FProd%2Fpgeproduct.aspx%3Fiid%3D6078573" onmouseover="self.status='http://www.asos.com/Only/Only-Longline-Zip-Front-Bomber-Jacket/Prod/pgeproduct.aspx?iid=6078573'; return true;" onmouseout="self.status=''; return true;" target="_new">
+                                        <img src="https://s-media-cache-ak0.pinimg.com/originals/37/3e/18/373e18f3f9f2e2debc8c9ddc5fbfa2a5.png" alt="" class="img-responsive image1">
+                                    </a>
+
+                                </div>
+                                <!-- /.image -->
+                                <div class="text">
+                                    <h3>ASOS</h3>
+                                    <p class="price">£35</p>
+                                     <center><p class="read-more">  <a href="http://www.awin1.com/cread.php?awinmid=5678&awinaffid=254871&clickref=Bomberkhaki4&p=http%3A%2F%2Fwww.asos.com%2FOnly%2FOnly-Longline-Zip-Front-Bomber-Jacket%2FProd%2Fpgeproduct.aspx%3Fiid%3D6078573" onmouseover="self.status='http://www.asos.com/Only/Only-Longline-Zip-Front-Bomber-Jacket/Prod/pgeproduct.aspx?iid=6078573'; return true;" onmouseout="self.status=''; return true;" target="_new" class="btn btn-primary mybutton">SHOP</a></p></center>
+                                </div>
+                                <!-- /.text -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="product">
+                                <div class="image">
+                                    <a href="http://www.awin1.com/cread.php?awinmid=6164&awinaffid=254871&clickref=Bomberkhaki4&p=http%3A%2F%2Fwww.stradivarius.com%2Fgb%2Fclothing%2Fbombers%2Fbomber-coat-with-plush-lining-c1620001p6931001.html" onmouseover="self.status='http://www.stradivarius.com/gb/clothing/bombers/bomber-coat-with-plush-lining-c1620001p6931001.html'; return true;" onmouseout="self.status=''; return true;" target="_new">
+                                        <img src="https://s-media-cache-ak0.pinimg.com/originals/3a/d6/eb/3ad6eb1a0fe96650b897cda7fb55da8d.png" alt="" class="img-responsive image1">
+                                    </a>
+
+                                </div>
+                                <!-- /.image -->
+                                <div class="text">
+                                    <h3>STRADIVARIUS</h3>
+                                    <p class="price">£35.99
+                          </p>
+                          <center><p class="read-more">   <a href="http://www.awin1.com/cread.php?awinmid=6164&awinaffid=254871&clickref=Bomberkhaki4&p=http%3A%2F%2Fwww.stradivarius.com%2Fgb%2Fclothing%2Fbombers%2Fbomber-coat-with-plush-lining-c1620001p6931001.html" onmouseover="self.status='http://www.stradivarius.com/gb/clothing/bombers/bomber-coat-with-plush-lining-c1620001p6931001.html'; return true;" onmouseout="self.status=''; return true;" target="_new" class="btn btn-primary mybutton">SHOP</a></p></center>
+                                </div>
+                                <!-- /.text -->
+
+
+                                <!-- /.ribbon -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="product">
+                                <div class="image">
+                                    <a href="http://www.awin1.com/cread.php?awinmid=5577&awinaffid=254871&clickref=Bomberkhaki6&p=https%3A%2F%2Fwww.prettylittlething.com%2Fpoppie-blush-suede-bomber-jacket.html" onmouseover="self.status='https://www.prettylittlething.com/poppie-blush-suede-bomber-jacket.html'; return true;" onmouseout="self.status=''; return true;" target="_new">
+                                        <img src="https://s-media-cache-ak0.pinimg.com/originals/bd/26/3f/bd263f1210b1ebef5f4a7edf4f4428dc.png" alt="" class="img-responsive image1">
+                                    </a>
+
+                                </div>
+                                <!-- /.image -->
+                                <div class="text">
+                                    <h3>PRETTY LITTLE THING</h3>
+                                    <p class="price">£30</p>
+                                     <center><p class="read-more">   <a href="http://www.awin1.com/cread.php?awinmid=5577&awinaffid=254871&clickref=Bomberkhaki6&p=https%3A%2F%2Fwww.prettylittlething.com%2Fpoppie-blush-suede-bomber-jacket.html" onmouseover="self.status='https://www.prettylittlething.com/poppie-blush-suede-bomber-jacket.html'; return true;" onmouseout="self.status=''; return true;" target="_new" class="btn btn-primary mybutton">SHOP</a></p></center>
+
+                                    
+                                </div>
+                                <!-- /.text -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+
+                         <!-- /.image -->
+
+
+</div>
+
+
+
+
+
+
+
+            <div class="container">
+                <div class="col-sm-12">
+                    <!-- *** BLOG HOMEPAGE ***
+_________________________________________________________ -->
+        <div class="box text-center">
+                       <h3 class="text-uppercase">From our blog</h3>
+
+                       <!--  <p class="text-italic text-large">What's new in the world of fashion? <span class="accent">Check our blog!</span>
+                        </p> -->
+       </div>
+          <div id="blog-homepage" class="row">
+              <div class="col-sm-6" >
+                    <div class="post">
+                          <h4><a href="/blog/thatsnothijab">That's not Hijab</a></h4>
+
+                          <p class="intro"> Zareen and Selina share their 'That's not hijab,' story. Share yours!</p>
+                          <p class="read-more"><a href="/blog/thatsnothijab" class="btn btn-primary" >Read more</a></p>
+                           <hr>
+
+                                                            </div>
+                                                            </div>
+                                                        
+
+
+
+
+                     <div class="col-sm-6">
+                            <div class="post">
+                             <h4><a href="/blog/gayamagazine">Interview with Gaya magazine founder</a></h4>
+                             
+                                 <p class="intro">Inspiring you to aspire by bringing you interviews with changemakers in the ummah!</p>
+                                <p class="read-more"><a href="/blog/gayamagazine" class="btn btn-primary">Read more</a>
+                                </p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <!-- *** BLOG HOMEPAGE END *** -->
+                </div>
+                </div>
+            </div>
+
+        </div>
+        <!-- /#content -->
+
+        <!-- *** FOOTER ***
+_________________________________________________________ -->
+
+
+        <!-- *** FOOTER END *** -->
+
+       <!-- *** COPYRIGHT ***
+_________________________________________________________ -->
+
+        <div id="copyright">
+            <div class="container">
+
+
+                 <div class="text-center">
+                            <div class="col-sm-10 col-sm-offset-1">
+
+
+                                    <p class="social">
+                                      <a href="https://www.facebook.com/Amaliah-854125178017137/timeline/?ref=hl"><i class="fa fa-facebook-square fa-2x"></i></a>
+                                      <a href="hhttps://instagram.com/amaliah_co.uk"><i class="fa fa-instagram fa-2x"></i></a>
+                                      <a href="https://twitter.com/Amaliah_Tweets?lang=en"><i class="fa fa-twitter-square fa-2x"></i></a>
+<!--                                       <a href="#"><i class="fa fa-tumblr-square fa-2x"></i></a> -->
+<!--                                       <a href="#"><i class="fa fa-pinterest-square fa-2x"></i></a> -->
+                                    </p>
+                        </div>
+                        <div class="col-md-12">
+                    <p class="center">&copy; 2016 Amaliah</p>
+                </div>
+                    </div>
+            </div>
+        </div>
+        <!-- /#copyright -->
+
+        <!-- *** COPYRIGHT END *** -->
+
+
+
+    </div>
+    <!-- /#all -->
+
+    <!-- #### JAVASCRIPT FILES ### -->
+
+    <script src="js/jquery-1.11.0.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.cookie.js"></script>
+    <script src="js/front.js"></script>
+<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+
+    <!-- owl carousel -->
+    <script src="js/owl.carousel.min.js"></script>
+<script src="https://www.dwin2.com/pub.254871.min.js"></script>
+<script type="text/javascript" src="//s.skimresources.com/js/88400X1541451.skimlinks.js"></script>
+
+
+</body>
+</html>
